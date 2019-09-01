@@ -1,12 +1,5 @@
-# Frontend for https://smappi.org/marketplace/adw0rd/cryptocurrency/
+# This is just a test website that i would like to deploy on IP.... TODO: Add Google Could IP
 
-* Demo page: https://adw0rd.github.io/CryptoCurrency/
-* API page: https://smappi.org/marketplace/adw0rd/cryptocurrency/
 
-## First clone API repo and run smappi server
-
-    git clone git@git.smappi.org:adw0rd/cryptocurrency
-    cd cryptocurrency
-    npm install
-    smappi run
+## Code is to be modified. 
 
