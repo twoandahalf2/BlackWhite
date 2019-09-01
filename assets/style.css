@@ -1,0 +1,15 @@
+.gray {
+    color: gray;
+}
+.gold {
+    color: gold;
+}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {
+   background-color: gray;
+}
+.table-rates {
+    table-layout: fixed;
+}
+.table-rates td {
+    vertical-align: middle;
+}
